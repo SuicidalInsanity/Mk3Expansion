@@ -1,4 +1,8 @@
-Version 1.0
+Version 0.5.1
+================================
+-New Part: JE-1'Strongman' 1.25m turbofan
+-New Part: JE-4'Hercules' 2.5m turbofan
+Version 0.5
 =============
 -New Part: Mk3 Chine Cap
 -New Part: Mk3 Short Chine
