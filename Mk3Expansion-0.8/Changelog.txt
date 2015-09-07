@@ -1,0 +1,37 @@
+Version 0.8
+=========================
+-New Part: New Mk3 cockpit w/WIP IVA
+-New Part; CLEAVER dual mode engine
+-New Part; Linear Aerospike
+-new part; mk3-size1 adapter
+-new part: mk3 tricoupler
+-new part: mk3 quadcoupler
+-new part; Fuselage extension/saddletank cap
+-new part; Fuselage extension/saddletank short
+-new part; Fuselage extension/saddletank long
+-new part; Fuselage extension/saddletank intake
+-new part; Fuselage extension/saddletank size1 mount
+-part removed; 'Brute' jet engine
+
+Version 0.5.1
+================================
+-New Part: JE-4'Hercules' 2.5m turbofan
+
+Version 0.5
+=============
+-New Part: Mk3 Chine Cap
+-New Part: Mk3 Short Chine
+-New Part: Mk3 Long chine
+-New Part: 'Brute' 2.5m turbojet engine
+-New Part: 'Cyclone' Mk3 Concentric Aerospike engine
+-New Part: Mk3 Hypersonic Nosecone
+-New Part: Mk3 Nosecap
+-New Part: Mk3 service bay
+-new Part: Mk3-inveted mk2 adapter
+-New part; Mk3-mk2/1.25 tricoupler
+
+
+
+
+
+
