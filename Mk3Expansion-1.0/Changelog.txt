@@ -1,3 +1,9 @@
+Version 1.0
+==============================
+-Fixed CLEAVER smoke FX
+-Fixed Linear Aerospkike smoke FX
+-Fixed Linear Aerospike gimbal
+
 Version 0.8
 =========================
 -New Part: New Mk3 cockpit w/WIP IVA
