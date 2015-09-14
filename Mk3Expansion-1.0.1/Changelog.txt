@@ -1,3 +1,8 @@
+Version 1.0.1
+===========================
+-New part: OMS shoulder
+-New part: Mk3 OMS unit
+
 Version 1.0
 ==============================
 -Fixed CLEAVER smoke FX
