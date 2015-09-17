@@ -2,10 +2,6 @@ OVERVIEW
 ===================================================================================================================
 This pack provides mew mk3 spaceplane parts in the form of engines, fuselage segments and aerodynamic accessories.
 
----This is very much a Work In Progress Dev version---
- Of Note: Linear aerospike is not working correctly, gimbal inverter
-	Engine FX partially implemented
-	IVA incomplete
 
 INSTALLATION
 ===================================================================================================================
