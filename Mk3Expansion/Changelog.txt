@@ -1,3 +1,14 @@
+Version 1.05
+==========================
+-New part: Mk3 Drone Core
+-New part: Mk3 Decoupler
+-New part: Big-S Wing board
+-New Part: Big-S Wing Segment A
+-New Part; Big-S Wing Segment B
+-New Part: Big-S Wing Segment C
+-New Part; Big-S Wing Segment D
+-FX tweak; CLEAVER rocket mode FX bulked up
+
 Version 1.0.1
 ===========================
 -New part: OMS shoulder
