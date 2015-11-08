@@ -1,3 +1,23 @@
+Version 1.08
+===================================
+-New Part; Truncated fuselage Extension (three variants)
+-New Part: Crew Tank Fuselage extension
+-Model Rework: Fueslage Extensions now use IFS mesh switch
+-New Part: mk3 cupola
+-New part: T-Hub
+-New PArt: X-Hub
+-New part; mk3 basic jet engine
+-New part: Mk3 circular Intake
+-Model rework: Big-S wing boards A-D
+-Model rework: Hypersonic Nosecone retextured, lengthened
+-model rework: mk3-1.25m adapter, lengthened
+-Texture rework: mk2 inverter adapter retextured
+-Cfg tweak: N-couplers now have proper symmetry
+-Added AJE MM Patch
+-Added CLS MM Patch
+-Added DRE MM Patch
+-Added MFT MM Patch
+
 Version 1.05
 ==========================
 -New part: Mk3 Drone Core
