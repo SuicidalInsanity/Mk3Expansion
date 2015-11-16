@@ -1,3 +1,7 @@
+Version 1.09
+=====================================
+-Update for KSP 1.05
+
 Version 1.08
 ===================================
 -New Part; Truncated fuselage Extension (three variants)
