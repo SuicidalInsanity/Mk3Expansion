@@ -1,3 +1,9 @@
+Version 1.1.03
+=================================
+-CLS MM patch tweaked: Crew Fuselage Extension now surface passable 
+-Fixes issue with Mk3 docking ports
+-Fixes 'Elephant' Jet Engine
+
 Version 1.1.02
 =================================
 -Fixed Turboramjet tech node placement
