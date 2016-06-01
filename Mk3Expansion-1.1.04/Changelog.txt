@@ -1,8 +1,14 @@
+Version 1.1.04
+==================================
+-fixes NFE patch assigning LH2 conversion to the Hades. Functionality moved to the Kerbal Atomics patch
+
 Version 1.1.03
 =================================
 -CLS MM patch tweaked: Crew Fuselage Extension now surface passable 
 -Fixes issue with Mk3 docking ports
 -Fixes 'Elephant' Jet Engine
+-fixes CLEAVER node size
+-Fixes Elephant node size
 
 Version 1.1.02
 =================================
