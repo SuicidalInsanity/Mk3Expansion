@@ -1,3 +1,17 @@
+Version 1.4.5
+==================================
+KSP Version 1.4 compatibility
+-New Part: Mk3 Structural tube
+-New Part: LHub
+-New Part: Mk3 SAS
+-Model Rework: Seivert NTJ
+-Model Rework: Mk3 Drone Core
+-Hub masses reduced, now have LF/O
+-Hubs no longer have SAS
+-New SFX for Jet engines
+-Chinese localization, credit to levin845
+-Adds RPM IVAs
+
 version 1.4
 ====================================
 -Added Localization
