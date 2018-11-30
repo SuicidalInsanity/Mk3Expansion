@@ -1,0 +1,278 @@
+Version 1.4.7.4
+=========================================
+-Adds Tweakscale patch, see readme
+-Fixes B9PS subtype localization
+-Fixes Chinese localization
+-Fixes MM syntax for patches with multiple :NEEDS
+-tweaked MFT patch, should play nicer with B9 PS now
+-Fixes FuelSwitch XHub double reference
+
+Version 1.4.7
+======================================
+-KSP 1.5 update
+-New Part: Cargo Bay Nose
+-New Part: Mk2 Adapter Cargo Ramp
+-New Part: Mk3 Cargo Hatch
+-New Part: Radial Mount
+-New part: Mk3 Endplate
+-New Part: Short Size2 Adapter
+-Model Rework: Mk3 Service Bay
+-CLEAVER mass and price increased
+-Fixed Service Tank surface attach offset.
+-New Example Craft; Transport VTOL
+-Conversion from from Interstellar FuelSwitch to B9 Part Switch
+
+Version 1.4.5
+==================================
+KSP Version 1.4 compatibility
+-New Part: Mk3 Structural tube
+-New Part: LHub
+-New Part: Mk3 SAS
+-Model Rework: Seivert NTJ
+-Model Rework: Mk3 Drone Core
+-Hub masses reduced, now have LF/O
+-Hubs no longer have SAS
+-New SFX for Jet engines
+-Chinese localization, credit to levin845
+-Adds RPM IVAs
+
+==Mk3 ram intake
+==2.5-mk3 adapter intake
+=mk3 scale podded solar?
+==mk3 conformal radiator?
+==add heavy ion engine?  so have less efficient more powerful engine, say 6 ton, 72 kN@400 ec/s?
+-=- VTOL/vac lander engines?
+
+?? HSNC remodel/texture?
+??SSNC remodel/texture?
+??CLEAVER remodel?
+??retexture mk3 tricoupler
+??rework linear aerospike
+version 1.4
+====================================
+-Added Localization
+-M3X parts now have their own manufacturer
+-New part: BigS Airbrake A
+-New Part: BigS Airbrake B
+-New Part: Mk3 Precooler
+-New Part: Service Tank
+-New Part: Air-Augmented Rocket
+-New part: Mk3 Reactor
+-New part: Mk3 Ion Engine
+-New Part: Mk3 Docking Port
+-New Part: 1.875m SRB
+-New Part: Long 1.875m SRB
+-Model Rework: Mk3 Inline Cockpit
+-Model Rework: Saddletank Intake
+-Model Rework Mk3 Circular Intake
+-Part Rework: Coxswain OMS
+-Mk3 Inline Cockpit now has IVA
+-Improved turboprop throttle response
+-Fixed Turboprop IntakeAir usage
+-BigS Wing connection strength improved
+-Various Price/mass/techtree rebalances
+-Buffed Mk3 hypersonic cockpit heat tolerance
+-buffed command part torque wheels
+-Fixed NFE compatibility
+-Added M3X example Craft
+
+Version 1.35
+==============================================================
+-New Part: Mk3 bicoupler
+-Fixes MM patch conflict with GTindustries
+-Fixes NFE issue with nuclear engines
+-Model retetexture: Mk3 Inline Cockpit
+-Fixes chine lift vector issue. Craft with chines will likely need to be rebuilt
+-fixes cyclone FX vector
+-Cyclone  Smoke FX working now
+-Adds Agency/manufacturer tab support
+-CLS MM patch updated
+-Adds WIP Mk3 cupola IVA
+
+Version 1.3
+==============================
+-New Part; Mk3 inline Cockpit
+-New Part: RCS fuselage extension
+-New Part: RCS endcap Fuselage Extension
+-New part; 'Atlas' Mk3 SRB
+-New Part: Heavy RCS block
+-New Part: 'Hurricane' 2.5m prop engine
+-New Part: RCS Chine Cap
+-New Part: RCS Chine segment
+-New Part RCS Fuselage Extension cap
+-New Part: RCS Fuselage Extension segment
+-Fixes Engine FX, no longer has interaction with Aero/mach FX
+-'Elephant' size2 turbofan moved to HeavyAerodynamics
+-Elephant moved to legacy parts pending depreciation
+-'Wellington' mk3 turbofan moved to HeavyAerodynamics
+-Mk3-2 cockpit moved to ExperimentalAerodynamics
+-Chines and Fuselage Extensions moved to ExperimentalAerodynamics
+-BigS wing segments moved to HeavyAerodynamics
+-Mk3 circular Intake moved to HeavyAerodynamics
+-Fixed cost of Mk3 science lab
+-Docking ports now have CLS support
+-Mk3 shockcone maxtemp increased to 2500
+-Adjusted BreakingForce and BreakingTorque values for all parts
+-Fixed Crew cabin fuselage extension IVA orientation - this will mess up crafts using the CCFX
+-Crew cabin FX now has working light emissives
+-cockpit lights now have Light AG by default
+-Fuselage Extension parts moved to FuelTanks
+-Fuselage extension crewcabin moved to Utility
+-Crew Cabin Fuselage Extension now has airlocks
+-Various part costs adjusted to be more in line with stock prices
+
+
+Version 1.2.1
+================================
+-Update for KSP 1.2
+-Part categories updated to use 1.2 categories
+-Fixes Inline docking port control from here issue
+-New Part: Mk3 Science Lab
+-Model Rework: Mk2 Inverted adapter now has horizontal/vertical variants
+-Coxswain OMS now uses new FX
+-Mk3-2 cockpit now uses new RCS FX
+-Fixed Linear Aerospike bottom node orientation
+-Tweaked part costs to be closer to stock prices
+-Fixes various typos in part descriptions
+
+Version 1.2
+==================================
+-Model Rework; CLEAVER now has fairing, bottom attach node
+-Model Rework: Concentric Aerospike now has fairing, bottom attach node
+-Model Rework: Linear Aerospike now has fairing, bottom attach node
+-Model Rework: Hades NTR now has fairing
+-Model Rework: Big-S wing segments now standardized, configurable, stock compatible
+-New part: Big-S small Delta Wing
+-New part: Big-S large Delta Wing
+-New part: Big-S Elevon C
+-New part: Big-S Elevon D
+-new Part: Big-S Elevon E
+
+Version 1.1.04
+==================================
+-fixes NFE patch assigning LH2 conversion to the Hades. Functionality moved to the Kerbal Atomics patch
+
+Version 1.1.03
+=================================
+-CLS MM patch tweaked: Crew Fuselage Extension now surface passable 
+-Fixes issue with Mk3 docking ports
+-Fixes 'Elephant' Jet Engine
+-fixes CLEAVER node size
+-Fixes Elephant node size
+
+Version 1.1.02
+=================================
+-Fixed Turboramjet tech node placement
+-Fixed Texture for cockpit windows
+-Fixed T hub node alignment
+-Fixed Hades NTR NoAttach collider
+
+Version 1.1
+========================================
+-Update for KSP 1.1
+-New Part: mk3 shock cone
+-New Part: 'Sievert' Nuclear Thermal Jet
+-New Part: 'Hades' Nuclear Rocket
+-New Part: 'Wipeout' TurboRamJet
+-New Part: mk3 docking port
+-New Part: Shielded mk3 docking port
+-Model rework: 'Wellington' reworked, now has thrust reverser
+-Model rework; Coxswain OMs symmetry fixed, now has 0.625m  Buran style variant
+-Model Rework: crew fuselage extension
+-Mk3-2 Cockpit now has IVA
+-Fixed symmetry issues with chines
+-Fixed Symmetry issues with Fuselage extensions
+-Added search tags
+-Fixed Mk3 T Hub
+-Fixed node alignment on Mk3 X Hub
+-Model Tweak; Service Bay: fixed bad UV map issue
+-Fixed concentric Aerospike node size
+-Fixed Linear Aerospike node size
+-Depreciated KM_Gimbal Plugin
+-fixed some texture refeence URLS, depreciated depreciated stock textures
+-Added FAR MM compatibility patch
+-Added NFE MM compatibility patch
+
+Version 1.09
+=====================================
+-Update for KSP 1.05
+
+Version 1.08
+===================================
+-New Part; Truncated fuselage Extension (three variants)
+-New Part: Crew Tank Fuselage extension
+-Model Rework: Fueslage Extensions now use IFS mesh switch
+-New Part: mk3 cupola
+-New part: T-Hub
+-New PArt: X-Hub
+-New part; mk3 basic jet engine
+-New part: Mk3 circular Intake
+-Model rework: Big-S wing boards A-D
+-Model rework: Hypersonic Nosecone retextured, lengthened
+-model rework: mk3-1.25m adapter, lengthened
+-Texture rework: mk2 inverter adapter retextured
+-Cfg tweak: N-couplers now have proper symmetry
+-Added AJE MM Patch
+-Added CLS MM Patch
+-Added DRE MM Patch
+-Added MFT MM Patch
+
+Version 1.05
+==========================
+-New part: Mk3 Drone Core
+-New part: Mk3 Decoupler
+-New part: Big-S Wing board
+-New Part: Big-S Wing Segment A
+-New Part; Big-S Wing Segment B
+-New Part: Big-S Wing Segment C
+-New Part; Big-S Wing Segment D
+-FX tweak; CLEAVER rocket mode FX bulked up
+
+Version 1.0.1
+===========================
+-New part: OMS shoulder
+-New part: Mk3 OMS unit
+
+Version 1.0
+==============================
+-Fixed CLEAVER smoke FX
+-Fixed Linear Aerospkike smoke FX
+-Fixed Linear Aerospike gimbal
+
+Version 0.8
+=========================
+-New Part: New Mk3 cockpit w/WIP IVA
+-New Part; CLEAVER dual mode engine
+-New Part; Linear Aerospike
+-new part; mk3-size1 adapter
+-new part: mk3 tricoupler
+-new part: mk3 quadcoupler
+-new part; Fuselage extension/saddletank cap
+-new part; Fuselage extension/saddletank short
+-new part; Fuselage extension/saddletank long
+-new part; Fuselage extension/saddletank intake
+-new part; Fuselage extension/saddletank size1 mount
+-part removed; 'Brute' jet engine
+
+Version 0.5.1
+================================
+-New Part: JE-4'Hercules' 2.5m turbofan
+
+Version 0.5
+=============
+-New Part: Mk3 Chine Cap
+-New Part: Mk3 Short Chine
+-New Part: Mk3 Long chine
+-New Part: 'Brute' 2.5m turbojet engine
+-New Part: 'Cyclone' Mk3 Concentric Aerospike engine
+-New Part: Mk3 Hypersonic Nosecone
+-New Part: Mk3 Nosecap
+-New Part: Mk3 service bay
+-new Part: Mk3-inveted mk2 adapter
+-New part; Mk3-mk2/1.25 tricoupler
+
+
+
+
+
+
