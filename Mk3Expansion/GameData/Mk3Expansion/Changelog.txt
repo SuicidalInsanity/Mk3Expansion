@@ -1,3 +1,90 @@
+v1.6.1.3
+-Fixes audio for OMS engine
+-fix Airbrake names being swapped
+-Fixes missing texture error on structural T tube
+-Fixes M3X reactor costing less than its contained resources
+-Removed duplicate Lf/LOF B9Tank types
+-Fix localization issue with variant part B9PS configs
+-Fix SystemHeat compatibility
+
+v1.6.1.2
+=====================================
+-Fixes Sievert Engine FX
+
+v1.6.1.1
+=============================================
+-KSP 1.12.x update
+-Part Rework: CLEAVER
+-New Part: Structural X fuselage
+-New Part: Strucutural T Fuselage
+-New part: Structural L Fuselage
+-Fixes missing texture on Cyclone Engine
+-Fixes missing texture on Hurricane Engine
+-Fixes missing texture on Service Bay
+-Fixes missing texture on Minotaur SRBs
+-Fixes missing Testure on Atlas SRB
+-Fixes missing texture on Linear Aerospike
+-Fixes missing texture on Service bay
+-Model Rework: Aligned Docking Port
+-Model Rework: Inline Docking Port
+-Model Rework: Stack Docking Prot
+
+V 1.6
+=============================================
+-KSP 1.11.x update
+-New Part: Mk3 Cargo Container
+-Adds Cargo/Inventory part functionality
+-Fixes Mk3 Inline Docking Port dragcube
+-Adds optional MM patch to add stock heat/reactor decay mechanics to Sievert NTJ
+-Adds optional MM patch to add dual-cycle capability to Siervert NTJ
+-Adds System Heat compatibility MM patch
+-Localization fix for Short Truncated Saddletank
+
+Version 1.5.1
+============================================
+-Fix intake for Elephant
+-fix attach for fairingless elephant
+
+version 1.5
+=============================================
+-New Part: Mk3 Heavy VTOL engine
+-New Part: Mk3 Ram Intake
+-Model Rework: Mk3 cockpit
+-Part Rework: Mk3 Turbofan
+-fixes Hurricane prop attach node size
+-fixes taurus/minotaur/atlas texture
+-fixes short Mk3-S2 adapter fuel qty.
+-Fixes decoupler crossfeed issue
+-Kerbals no longer hidden behind consoles in Mk3 Inline Cockpit IVA portrait cams
+-Fixes Firestorm drag cube
+-Mk3 Intake prices/masses/intake volumes brought inline with stock
+-All Mk3 parts now have correct breakingForce & breakingTorque values
+-Rework of variant part names and descriptions.
+-Fixes ShovelCockpit naming
+
+version 1.4.8.6
+===========================================
+-Model Rework: Mk3 Decoupler. Now hollow!
+-Fixes drag cubes for Mk3 Drone core, Mk3 SAS, Mk3 Aligned Docking Port, Mk3 Decoupler, Mk3 Radial Mount
+-Fixes Mk3 Service Bay not shielding its contents
+-Fixes Service Bay LF/O missing texture
+
+Version 1.4.8.5
+===========================================
+KSP 1.8.x update
+-Fixes Coxswain OMs texture
+-Cupola now has cylindrical variant
+-inline bridge IVA now has speed display
+
+version 1.4.8
+=========================================
+-Fixes tweakscale patch, no longer conflicts with TS's M3X patch
+-Hubs now have stack symmetry
+-Fixes scaled flag for agency contracts
+-Fixes missing bulkhead profiles
+-Adds Whitelist for ReStock compatibility
+-Fixes OMS engine white texture
+
 Version 1.4.7.4
 =========================================
 -Adds Tweakscale patch, see readme
